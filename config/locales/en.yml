@@ -1,6 +1,8 @@
+# English strings go here for Rails i18n
 en:
   private_wiki: Private Wiki
   permission_view_private_wiki_pages: View private wiki pages
   permission_manage_private_wiki_pages: Manage private wiki pages
   button_hide_wiki: Hide
   button_reveal_wiki: Reveal
+  plugin_test_redmine_private_wiki: "redmine_private_wiki"
